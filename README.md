@@ -14,6 +14,9 @@ Resampling and feature selection techniques commonly found in research papers we
 #### **Dataset**
 The real-world dataset being used in this paper was obtained from Kaggle (2021). It contains 284,807 transactions made by credit cards over two days in September 2013 by European cardholders, out of which only 492 are frauds (0.172%), making it a highly unbalanced dataset. Available at: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
+
+#### **Results**
+#### **Stages: Raw Data --> Under & Oversampling Techniques --> Feature Selection --> Ensemble Models**
 <img width="450" alt="Screenshot 2023-01-08 at 19 39 02" src="https://user-images.githubusercontent.com/118363955/211215571-742cf901-d3ef-4f5a-8a55-7dac83f0ad06.png">
 <img width="707" alt="Screenshot 2023-01-08 at 19 38 50" src="https://user-images.githubusercontent.com/118363955/211215578-8de2ccbd-5c15-4275-8b6b-975d47289d4b.png">
 <img width="695" alt="Screenshot 2023-01-08 at 19 39 20" src="https://user-images.githubusercontent.com/118363955/211215583-512945bf-be4e-4669-8e6e-488ade8cf345.png">
