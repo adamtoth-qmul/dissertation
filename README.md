@@ -13,3 +13,13 @@ Resampling and feature selection techniques commonly found in research papers we
 
 #### **Dataset**
 The real-world dataset being used in this paper was obtained from Kaggle (2021). It contains 284,807 transactions made by credit cards over two days in September 2013 by European cardholders, out of which only 492 are frauds (0.172%), making it a highly unbalanced dataset. Available at: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+<img width="450" alt="Screenshot 2023-01-08 at 19 39 02" src="https://user-images.githubusercontent.com/118363955/211215571-742cf901-d3ef-4f5a-8a55-7dac83f0ad06.png">
+<img width="707" alt="Screenshot 2023-01-08 at 19 38 50" src="https://user-images.githubusercontent.com/118363955/211215578-8de2ccbd-5c15-4275-8b6b-975d47289d4b.png">
+<img width="695" alt="Screenshot 2023-01-08 at 19 39 20" src="https://user-images.githubusercontent.com/118363955/211215583-512945bf-be4e-4669-8e6e-488ade8cf345.png">
+<img width="679" alt="Screenshot 2023-01-08 at 19 39 34" src="https://user-images.githubusercontent.com/118363955/211215593-2382485a-5b5b-476d-8e7e-3a5508a55689.png">
+
+<img width="878" alt="Screenshot 2023-01-08 at 19 40 00" src="https://user-images.githubusercontent.com/118363955/211215597-f7bc4fa8-cdf4-4bb0-88f0-e4b89c93aaad.png">
+<img width="860" alt="Screenshot 2023-01-08 at 19 40 13" src="https://user-images.githubusercontent.com/118363955/211215603-71c6e43c-aaa1-4426-8eaf-b8adbeaa8520.png">
+<img width="873" alt="Screenshot 2023-01-08 at 19 40 25" src="https://user-images.githubusercontent.com/118363955/211215610-32e91a41-ba13-4625-bc2d-91d54bfb1209.png">
+
