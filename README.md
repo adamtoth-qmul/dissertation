@@ -1,6 +1,6 @@
 # **Credit Card Fraud Detection Using Supervised Machine Learning Algorithms - Experiments with Resampling, Feature Selection, and Ensemble Models**
 
-      **Dissertation Paper**
+      Dissertation Paper
 
 ## **Why Credit Card Fraud (CCF) Detection?**
 Advances in e-commerce systems, and progresses made in the communication and payment technologies have accelerated the number of credit card transactions both online and offline purchases of goods and services. Simultaneously, however, the increased use of credit cards made frauds associated with such transactions more pervasive, costing financial institutions billions of dollars annually. 
