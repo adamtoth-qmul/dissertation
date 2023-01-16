@@ -3,7 +3,7 @@
 ## **Why Credit Card Fraud (CCF) Detection?**
 Advances in e-commerce systems, and progresses made in the communication and payment technologies have accelerated the number of credit card transactions both online and offline purchases of goods and services. Simultaneously, however, the increased use of credit cards made frauds associated with such transactions more pervasive, costing financial institutions billions of dollars annually. 
 
-Besides the *CCF-specific class distribution problem*, there are other interesting challenges associated with classification algorithms (Thennakoon et al., 2019):
+Besides the *CCF-specific class distribution problem*, there are other interesting challenges associated with classification algorithms that made me settle on this type of project, such as (Thennakoon et al., 2019):
 * Extracting the most important features from high feature dimension space with various selection techniques is needed in order to improve not only the final accuracy but overall interpretability of the models too. 
 * Improved cross-validation techniques and algorithm selection (either standalone or ensemble methods) can also improve the performance of a proposed CCF detection architecture by combining multiple classifiers, resulting in reduced generalisation error of predictions.
 
