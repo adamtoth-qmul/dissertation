@@ -8,7 +8,7 @@ The *overall aim* of this experiment, therefore, is not only to find the most ef
 Resampling and feature selection techniques commonly found in my literature review were included in the experiment, whilst making sure simpler and more complex of these were also represented. 
 
 ## **Challenges and Future Research Directions**
-• Hyperparameter tuning could have seriously improved scores further. It would have been also nice to see more resampling and feature selection techniques.
+• Hyperparameter tuning could have seriously improved scores further. It would have been also nice to see more resampling and feature selection techniques.//
 • Code blocks used were not necessarily the most computationally efficient ones. Even without hyperparameter optimisation, training times seriously limited the amount of work that I managed to accomplish. If I had more time, I could have experimented even more with the ensemble models – that part of the research lacked a rigorous approach and depended more on intuition gained from the previous stages.
 
 ## **Dataset**
