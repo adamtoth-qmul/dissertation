@@ -3,10 +3,9 @@
 ## **Why Credit Card Fraud (CCF) Detection?**
 Advances in e-commerce systems, and progresses made in the communication and payment technologies have accelerated the number of credit card transactions both online and offline purchases of goods and services. Simultaneously, however, the increased use of credit cards made frauds associated with such transactions more pervasive, costing financial institutions billions of dollars annually. 
 
-Besides the *CCF-specific class distribution problem*, there are other interesting challenges associated with classification algorithms:
+Besides the *CCF-specific class distribution problem*, there are other interesting challenges associated with classification algorithms (Thennakoon et al., 2019):
 * Extracting the most important features from high feature dimension space with various selection techniques is needed in order to improve not only the final accuracy but overall interpretability of the models too. 
-* Improved cross-validation techniques and algorithm selection (either standalone or ensemble methods) can also improve the performance of a proposed CCF detection architecture by combining multiple classifiers, resulting in reduced generalisation error of predictions 
-(Thennakoon et al., 2019).
+* Improved cross-validation techniques and algorithm selection (either standalone or ensemble methods) can also improve the performance of a proposed CCF detection architecture by combining multiple classifiers, resulting in reduced generalisation error of predictions.
 
 ## **Structure and Aim of Paper**
 The paper first analyses *five supervised machine learning algorithms* (**Logistic Regression, K-Nearest Neighbours, Decision Tree, Random Forest, Naïve Bayes**) commonly used in fraud detection on a well-known, 'raw' real-world dataset and evaluates their performance. It then applies several *resampling* (**Random Undersampling, Near Miss, Tomek Links, Random Oversampling, Synthetic Minority Oversampling, Adaptive Synthetic Oversampling**) and *feature selection* techniques (**ANOVA-F and Recursive Feature Elimination with Decision Tree**) to combat the class imbalance problem and to enhance performance of the algorithms. Finally, the best performing classifier is selected, and paired up with classifiers, creating *ensemble models* (**Simple and Weighted Majority Voting based**) to examine whether their combined workings improve their capabilities in detecting fraud cases. 
