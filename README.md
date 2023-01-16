@@ -24,6 +24,8 @@ The real-world dataset being used in this paper was obtained from Kaggle (2021).
 
 
 ## **Results**
+More than 110 models were trained and tested, which allows insights to be gained from multiple angles, as the following tables depict it too. 
+
 ## **Stages: Raw Data --> Under & Oversampling Techniques --> Feature Selection --> Ensemble Models**
 <img width="450" alt="Screenshot 2023-01-08 at 19 39 02" src="https://user-images.githubusercontent.com/118363955/211215571-742cf901-d3ef-4f5a-8a55-7dac83f0ad06.png">
 <img width="707" alt="Screenshot 2023-01-08 at 19 38 50" src="https://user-images.githubusercontent.com/118363955/211215578-8de2ccbd-5c15-4275-8b6b-975d47289d4b.png">
