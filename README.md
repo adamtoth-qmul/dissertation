@@ -1,11 +1,18 @@
 # **Credit Card Fraud Detection Using Supervised Machine Learning Algorithms - Experiments with Resampling, Feature Selection, and Ensemble Models**
 
+## **Why Credit Card Fraud (CCF) Detection?**
+Advances in e-commerce systems, and progresses made in the communication and payment technologies have accelerated the number of credit card transactions both online and offline purchases of goods and services. Simultaneously, however, the increased use of credit cards made frauds associated with such transactions more pervasive, costing financial institutions billions of dollars annually. 
+
+Besides the *CCF-specific class distribution problem*, there are other interesting challenges associated with classification algorithms:
+* 
+
+## **Structure and Aim of Paper**
 The paper first analyses *five supervised machine learning algorithms* (**Logistic Regression, K-Nearest Neighbours, Decision Tree, Random Forest, Naïve Bayes**) commonly used in fraud detection on a well-known, 'raw' real-world dataset and evaluates their performance. It then applies several *resampling* (**Random Undersampling, Near Miss, Tomek Links, Random Oversampling, Synthetic Minority Oversampling, Adaptive Synthetic Oversampling**) and *feature selection* techniques (**ANOVA-F and Recursive Feature Elimination with Decision Tree**) to combat the class imbalance problem and to enhance performance of the algorithms. Finally, the best performing classifier is selected, and paired up with classifiers, creating *ensemble models* (**Simple and Weighted Majority Voting based**) to examine whether their combined workings improve their capabilities in detecting fraud cases. 
 
 The *overall aim* of this experiment, therefore, is not only to find the most efficient combination of the above techniques and classifiers and see whether they can outperform existing results, but also *to highlight the incremental improvements in performance by each consecutive steps - resampling, feature selection, and ensemble models.* 
 
 ## **Why These Techniques?**
-Resampling and feature selection techniques commonly found in my literature review were included in the experiment, whilst making sure simpler and more complex of these were also represented. 
+Resampling and feature selection techniques commonly found in my literature review were included in the experiment - whilst making sure simpler and more complex of these were also represented. 
 
 ## **Challenges and Future Research Directions**
 * Hyperparameter tuning could have seriously improved scores further. It would have been also nice to see more resampling and feature selection techniques.
