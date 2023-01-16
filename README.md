@@ -2,10 +2,10 @@
 
 The paper first analyses *five supervised machine learning algorithms* (**Logistic Regression, K-Nearest Neighbours, Decision Tree, Random Forest, Naïve Bayes**) commonly used in fraud detection on a well-known, 'raw' real-world dataset and evaluates their performance. It then applies several *resampling* (**Random Undersampling, Near Miss, Tomek Links, Random Oversampling, Synthetic Minority Oversampling, Adaptive Synthetic Oversampling**) and *feature selection* techniques (**ANOVA-F and Recursive Feature Elimination with Decision Tree**) to combat the class imbalance problem and to enhance performance of the algorithms. Finally, the best performing classifier is selected, and paired up with classifiers, creating *ensemble models* (**Simple and Weighted Majority Voting based**) to examine whether their combined workings improve their capabilities in detecting fraud cases. 
 
-The overall aim of this experiment, therefore, is not only to find the most efficient combination of the above techniques and classifiers and see whether they can outperform existing results, but also to highlight the incremental improvements in performance by each consecutive steps - resampling, feature selection, and ensemble models. 
+The *overall aim* of this experiment, therefore, is not only to find the most efficient combination of the above techniques and classifiers and see whether they can outperform existing results, but also *to highlight the incremental improvements in performance by each consecutive steps - resampling, feature selection, and ensemble models.* 
 
 ## **Why These Techniques?**
-Resampling and feature selection techniques commonly found in research papers were included in the experiment, whilst making sure simpler and more complex of these were also represented. 
+Resampling and feature selection techniques commonly found in my literature review were included in the experiment, whilst making sure simpler and more complex of these were also represented. 
 
 ## **Challenges and Future Research Directions**
 • Hyperparameter tuning could have seriously improved scores further. It would have been also nice to see more resampling and feature selection techniques.
